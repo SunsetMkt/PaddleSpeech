@@ -17,7 +17,7 @@ onnxruntime>=1.11.0
 opencc
 paddlenlp
 # use paddlepaddle == 2.3.* according to: https://github.com/PaddlePaddle/Paddle/issues/48243
-paddlepaddle>=2.2.2,<2.4.0
+paddlepaddle>=2.2.2,<2.7.0
 paddlespeech_ctcdecoders
 paddlespeech_feat
 pandas
